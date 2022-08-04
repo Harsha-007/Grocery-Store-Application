@@ -1,1 +1,1 @@
-# Grocery-Store-Application-using-Py
+# Grocery-Store-Application
